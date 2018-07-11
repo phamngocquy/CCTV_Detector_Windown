@@ -6,7 +6,7 @@
 
 import xml.etree.ElementTree as ET
 import os
-import cPickle
+# import cPickle
 import numpy as np
 
 def parse_rec(filename):
